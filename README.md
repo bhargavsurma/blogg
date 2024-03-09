@@ -1,3 +1,3 @@
 # blogg
 
-Blogging API written using FASTAPI framework.
+Blogging API written using FastAPI framework.
